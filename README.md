@@ -10,7 +10,7 @@
 ![RestAPI](https://img.shields.io/badge/-RestAPI-464f5c?style=flat)
 
 ![NextJS](https://img.shields.io/badge/-NextJS-464f5c?style=flat&logo=nextdotjs&logoColor=white)
-![ReactJS](https://img.shields.io/badge/-ReactJS-464f5c?style=flat&logo=React&logoColor=f54250)
+![ReactJS](https://img.shields.io/badge/-ReactJS-464f5c?style=flat&logo=React&logoColor=5ed3f3)
 ![ReactRouter](https://img.shields.io/badge/-React_Router-464f5c?style=flat&logo=react-router&logoColor=f54250)
 ![Redux](https://img.shields.io/badge/-Redux-464f5c?style=flat&logo=Redux&logoColor=7247b5)
 ![Axios](https://img.shields.io/badge/-Axios-464f5c?style=flat&logo=axios&logoColor=5a2ae4)
