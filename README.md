@@ -2,28 +2,19 @@
 ## I'm *Front-End developer*.
 ### Languages and technologies i use:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-464f5c?style=flat&logo=JavaScript)
-![NodeJS](https://img.shields.io/badge/-NodeJS-464f5c?style=flat)
-![ExpressJS](https://img.shields.io/badge/-ExpressJS-464f5c?style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-464f5c?style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-464f5c?style=flat)
-![ReactJS](https://img.shields.io/badge/-ReactJS-464f5c?style=flat&logo=React)
-![NextJS](https://img.shields.io/badge/-NextJS-464f5c?style=flat&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-464f5c?style=flat&logo=Redux)
-![SCSS](https://img.shields.io/badge/-SCSS-464f5c?style=flat&logo=Sass)
+![TypeScript](https://img.shields.io/badge/-TypeScript-464f5c?style=flat&logo=typescript&logoColor=blue)
+![NodeJS](https://img.shields.io/badge/-NodeJS-464f5c?style=flat&logo=nodedotjs&logoColor=green)
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-464f5c?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-464f5c?style=flat&logo=mongodb&logoColor=green)
 ![RestAPI](https://img.shields.io/badge/-RestAPI-464f5c?style=flat)
+![NPM](https://img.shields.io/badge/-NPM-464f5c?style=flat&logo=npm&logoColor=white)
+
+![NextJS](https://img.shields.io/badge/-NextJS-464f5c?style=flat&logo=nextdotjs&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-ReactJS-464f5c?style=flat&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-464f5c?style=flat&logo=Redux)
+![Axios](https://img.shields.io/badge/-Axios-464f5c?style=flat&logo=axios&logoColor=white)
+![MaterialUI](https://img.shields.io/badge/-Material%20UI-464f5c?style=flat&logo=mui&logoColor=00ffff)
+![SCSS](https://img.shields.io/badge/-SCSS-464f5c?style=flat&logo=Sass)
 
 #### :v:My LinkedIn: [Sergiy Diorov](https://www.linkedin.com/in/sergiy-diorov-673a59254/)
-<!--
-**SergioDiorov/SergioDiorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### :v:My Gmail: sergiodiorov.sifex@gmail.com
