@@ -8,6 +8,8 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-464f5c?style=flat&logo=mongodb&logoColor=00dd60)
 ![NPM](https://img.shields.io/badge/-NPM-464f5c?style=flat&logo=npm&logoColor=c53635)
 ![RestAPI](https://img.shields.io/badge/-RestAPI-464f5c?style=flat)
+![Supabase](https://img.shields.io/badge/-Supabase-464f5c?style=flat)
+![NestJS](https://img.shields.io/badge/-NestJS-464f5c?style=flat)
 
 ![NextJS](https://img.shields.io/badge/-NextJS-464f5c?style=flat&logo=nextdotjs&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-464f5c?style=flat&logo=React&logoColor=5ed3f3)
